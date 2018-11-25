@@ -9,7 +9,7 @@ int AeqB(int data[]);
 int BeqC(int data[]);
 int CeqD(int data[]);
 void printA(int data[]);
-void permutation(int a[], int size, int n);
+void permutation(int data[], int size, int n);
 void swap(int *a, int *b);
 
 int main(void) {
