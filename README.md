@@ -9,5 +9,5 @@ The program outputs the values of each section of the eclipses in the following 
 
 [A,B,C,D,E,F,G,H,I,J,K,L,M,N,O] 
 
-based on the diagram above
+based on the diagram above.
 
