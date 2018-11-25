@@ -5,7 +5,7 @@ This code was used to solve a problem on the puzzling stack exchange
 - [The Question](https://github.com/WilliamAmbrozic/Four-Magic-Eclipses#the-question)
 - [My Solution](https://github.com/WilliamAmbrozic/Four-Magic-Eclipses#my-solution)
 - [Sample Video](https://github.com/WilliamAmbrozic/Four-Magic-Eclipses#sample-video)
-- [Find Me](https://github.com/WilliamAmbrozic/Four-Magic-Eclipses#singular-find-me-)
+- [Find Me](https://github.com/WilliamAmbrozic/Four-Magic-Eclipses#find-me-)
 
 ## The Question
 
@@ -32,6 +32,8 @@ Solve.c outputs the values of each section of the eclipses in the following alph
 Refer to the comments in the main file solve.c for further explanation.
 
 ## Sample Video
+
+[[Back to contents]](https://github.com/WilliamAmbrozic/Four-Magic-Eclipses#contents)
 
 [![Output](https://imgur.com/download/N7A3uyl)](https://www.youtube.com/watch?v=mSgYgMviOqs)
 
