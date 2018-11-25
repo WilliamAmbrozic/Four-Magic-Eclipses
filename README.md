@@ -11,3 +11,4 @@ The program outputs the values of each section of the eclipses in the following 
 
 based on the diagram above.
 
+Run and Compile solve.c
