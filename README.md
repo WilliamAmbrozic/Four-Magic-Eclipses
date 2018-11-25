@@ -33,7 +33,7 @@ Refer to the comments in the main file solve.c for further explanation.
 
 ## Sample Video
 
-[![Output](https://i.imgur.com/nIpB5yC.png)](https://i.imgur.com/N7A3uyl.png)
+[![Output](https://imgur.com/download/N7A3uyl)](https://www.youtube.com/watch?v=mSgYgMviOqs)
 
 ## Find Me <img src="https://imgur.com/download/HT8IjZ5" width="25"> 
 
