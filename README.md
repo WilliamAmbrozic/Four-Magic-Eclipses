@@ -9,6 +9,4 @@ The program outputs the values of each section of the eclipses in the following 
 
 [A,B,C,D,E,F,G,H,I,J,K,L,M,N,O] 
 
-based on the diagram above.
-
-Run and Compile solve.c
+Refer to the comments in the main file solve.c for further explanation.
