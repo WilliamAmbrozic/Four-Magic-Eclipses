@@ -37,7 +37,7 @@ Refer to the comments in the main file solve.c for further explanation.
 
 [![Output](https://imgur.com/download/N7A3uyl)](https://www.youtube.com/watch?v=mSgYgMviOqs)
 
-## Find Me <img src="https://imgur.com/download/HT8IjZ5" width="25"> 
+## Find Me <img src="https://imgur.com/download/FpDFVjy" width="25"> 
 
 [[Back to contents]](https://github.com/WilliamAmbrozic/Four-Magic-Eclipses#contents)
 
