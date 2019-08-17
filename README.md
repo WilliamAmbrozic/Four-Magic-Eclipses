@@ -41,6 +41,7 @@ Refer to the comments in the main file solve.c for further explanation.
 
 [[Back to contents]](https://github.com/WilliamAmbrozic/Four-Magic-Eclipses#contents)
 
+- [Hire Me or Learn More](https://williamambrozic.info)
 - [Youtube](https://www.youtube.com/channel/UCL-VushY6SO0ofPTZ8iB3ag)
 - [Instagram](https://www.instagram.com/williamambrozic)
 - [Twitter](https://twitter.com/WilliamAmbrozic)
